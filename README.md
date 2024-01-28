@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Amandeep%20Singh%20💻&text2=%20Programmer&width=900&height=300)]
+![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Amandeep%20Singh%20💻&text2=%20Programmer&width=900&height=300)
 <h1 align="center">Hi 👋, I'm Amandeep Singh</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 
