@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FrontEnd Development<br>👯 I’m looking to collaborate on Open Source Projects<br>🌱 I’m currently learning Node.js<br>💬 Ask me about Development and Programming<br>⚡ I play Chess and love watching Cricket
+🔭 I’m currently working on FrontEnd Development<br>👯 I’m looking to collaborate on Open Source Projects<br>🌱 I’m currently learning Express.js<br>💬 Ask me about Development and Programming<br>⚡ I play Chess and love watching Cricket
 
 
 ## 🌐 Socials:
